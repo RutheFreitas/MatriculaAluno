@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ruthe_desafio2_nivel1_teste1</string>
+    <string name="textHeader1">MCTI FUTURO</string>
+    <string name="textHeader2">AndroidDev Lite</string>
+    <string name="textTitleStudent">Aluno</string>
+    <string name="hintNomeStudent">Digite o nome do aluno</string>
+    <string name="textNomeStudent">nome</string>
+    <string name="hintClassStudent">Digite a turma do aluno</string>
+    <string name="textClassStudent">turma</string>
+    <string name="hintNoteStudent">Digite a nota do aluno</string>
+    <string name="textNoteStudent">Nota</string>
+    <string name="textItems">---</string>
+    <string name="buttonRecord">Gravar</string>
+    <string name="textMessage">---</string>
+    <string name="textTitleSearch">Pesquisa</string>
+    <string name="hintNomeSearch">Nome do aluno</string>
+    <string name="textNomeSearch">nome</string>
+    <string name="hintClassSearch">Turma do aluno</string>
+    <string name="textClassSearch">turma</string>
+    <string name="buttonSearch">Pesquisar</string>
+    <string name="textAverage">Média: ----</string>
+    <string name="textStatus">Situação: ----</string>
+    <string name="textFooter1">Desafio 2: nível 1</string>
+    <string name="textFooter2">aluna: Ruthe de Oliveira Freitas</string>
+</resources>
